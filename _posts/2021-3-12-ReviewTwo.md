@@ -13,7 +13,7 @@ Bomb Sight maps all the locations bombed in London between July 10th, 1940, and 
 
 The project is a frightening display of the impact World War II had on mid 20th century London. The user can freely zoom in and out and pan to see all the locations of the bombings. Each bomb is marked with a red icon, and anti-invasion sites are marked in yellow. The site allows users to view different versions of the map, including a street view, satellite view, and a 1940’s map that originally showed the locations. When users select an individual bomb icon, they are given a brief description that includes the address of the bombing. The read more section on each icon shows the original address as well as the current address of the bombing. The project has an app for android with a virtual reality experience, and the project is also viewable on apple products.
 
-![description of individual bombing]((https://ethanstowe.github.io/Ethan-Stowe-CNU/images/bombpic2.png)
+![description of individual bombing](https://ethanstowe.github.io/Ethan-Stowe-CNU/images/bombpic2.png)
 
 ### Relevance
 
